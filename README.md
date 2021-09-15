@@ -1,7 +1,7 @@
 # ModOrganizer_Style_Morrowind
 Transparent Style Morrowind Styleheet
 
-![](https://staticdelivery.nexusmods.com/mods/100/images/49140/49140-1608482185-945676628.png)
+![](https://imgur.com/a/conl2O7)
 
 ## Installation
 
