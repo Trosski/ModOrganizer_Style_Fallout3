@@ -1,7 +1,7 @@
 # ModOrganizer_Style_Fallout_3
 Transparent Style Fallout 3 Styleheet
 
-[img]https://i.imgur.com/SegSaOp.png[/img]
+![](https://i.imgur.com/SegSaOp.png)
 
 ## Installation
 
