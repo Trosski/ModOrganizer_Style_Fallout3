@@ -1,7 +1,7 @@
 # ModOrganizer_Style_Fallout_3
 Transparent Style Fallout 3 Styleheet
 
-![](<blockquote class="imgur-embed-pub" lang="en" data-id="a/conl2O7" data-context="false" ><a href="//imgur.com/a/conl2O7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/conl2O7" data-context="false" ><a href="//imgur.com/a/conl2O7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Installation
 
