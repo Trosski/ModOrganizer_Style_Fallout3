@@ -1,7 +1,7 @@
-# ModOrganizer_Style_Morrowind
-Transparent Style Morrowind Styleheet
+# ModOrganizer_Style_Fallout_3
+Transparent Style Fallout 3 Styleheet
 
-![](https://imgur.com/a/conl2O7)
+![](https://imgur.com/SegSaOp)
 
 ## Installation
 
